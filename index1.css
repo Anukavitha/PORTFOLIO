@@ -1,0 +1,19 @@
+h3{
+    word-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-left: 30px;
+}
+h2{
+    word-spacing: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hi{
+    text-align: justify;
+    padding-left:400px;
+}
+.hello{
+    padding-left: 80px;
+    font-weight: 100;
+    font-size: larger;
+}
